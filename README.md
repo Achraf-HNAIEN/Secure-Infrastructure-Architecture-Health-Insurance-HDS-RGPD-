@@ -1,5 +1,5 @@
 #  Secure Infrastructure Architecture – Health Insurance (HDS / RGPD)
-
+[image](inf_1.png)
 ##  Professional Infrastructure & Cybersecurity Project
 
 This repository showcases a **realistic, enterprise-grade infrastructure architecture**
